@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Dawson, and I'm a Speech/Audio research engineer focused on low-resource African soundscapes and privacy-preserving ASR. 
+I build datasets and train/evaluate models with slice-aware metrics (SNR/site) and calibration.
+
+- 🔭 I’m currently working on a cloud-based, human-in-the-loop Asante Twi→English transcription/translation platform, built around court and high-stakes domains, that combines modern transformer ASR/MT, rich editing tools, and a data flywheel to create a sovereign, domain-specialized speech system for Ghana.
+- - 👯 I’m looking to collaborate on anything related to robust audio understanding for under-represented soundscapes
 <!--
 **pdTetteh/pdTetteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
